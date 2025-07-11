@@ -14,4 +14,11 @@ git tag -d super-release -> para elimiar el tag
 git tag -a v1.0.0 -m "Version 1.0.0 lista" -> para personalizar y crea en el ultimo tag el tag 
 git tag -a v0.1.0 5dd61b1 -m "version alpha de nuestra app" -> para modificar algun hash en especifico.
 git show v0.1.0 -> Si queremos ver algo mas de algun tag en especifico
+git stash 
+git stash pop
+git stash clear -> para eliminar todos los stash 
+git reflog  para ver los cambios en los commits 
+git stash save "Agregamos a loki en villanos"
+git stash list –stat -> se agrega y se puede ver mas informacion del stash 
+git rebase master 
 
