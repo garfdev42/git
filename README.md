@@ -62,7 +62,5 @@ git stash save "Agregamos a loki en villanos"
 # Ver la lista de stash con estadísticas
 git stash list --stat
 
-# Ver h
-
 
 
