@@ -1,4 +1,4 @@
-# 🧠 Git.
+# 🧠 Git
 
 Comandos esenciales de Git y repositorios llenos de aprendizaje. Guarda este archivo como referencia rápida para tu trabajo diario con Git. 🚀
 
@@ -64,5 +64,5 @@ git stash list --stat
 
 # Ver los tags 
 git tag
-
+git tag list 
 
