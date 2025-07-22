@@ -65,4 +65,8 @@ git stash list --stat
 # Ver los tags 
 git tag
 git tag list 
+# Otros comandos
+git remote -v
+git pull
+git config --global.ff only
 
